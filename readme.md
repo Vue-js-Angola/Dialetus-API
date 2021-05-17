@@ -11,7 +11,7 @@
   ## Objetivo da API 🎯
  
  A Dialetus API tem como objectivo tradução de Sites  angolanos, em uma determinada língua nacional Angolana.
- Visto que nós somos africanos e a áfrica está devidida por tribos e reinos, com muitas váriações linguísticas em cada região. 
+ Visto que nós somos africanos e a áfrica está dividida  por tribos e reinos, com muitas váriações linguísticas em cada região. 
 
 
   ❤ A Dialetus APi é um projeto totalmente grátuito, temos como slogan: ' Desenvolvido pela comunidade para comunidade ' 
