@@ -32,7 +32,7 @@ Caso se sinta disposto (a) a colaborar no desenvolvimento da API, sinta-se a von
 obs: 'A contribuição em projeto open source, não é apenas codando!'
 
 
-
+## Stack a ser usada -> ' Javascript '
 
 
 ## Pessoas na CDA - Community dev angola que já estão contribuindo ✨
