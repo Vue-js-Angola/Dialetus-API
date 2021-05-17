@@ -37,5 +37,6 @@ obs: 'A contribuição em projeto open source, não é apenas codando!'
 
 ## Pessoas na CDA - Community dev angola que já estão contribuindo ✨
 
-- **[Lázaro Manuel](https://github.com/Lazaro-manuel)**
+- **[Lázaro Manuel](https://github.com/Lazaro-manuel)**    
+- - **[Lázaro Manuel](https://github.com/gentildpinto)** 
  
